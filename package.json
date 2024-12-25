@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "huo-qu-yan-zheng-ma",
+  "name": "copy-sms-code",
   "title": "获取验证码",
   "description": "从最新一条短信中获取验证码，并复制到剪贴板",
   "icon": "extension-icon.png",
